@@ -1,0 +1,1 @@
+hmm, animation is way small then i expected i did an experiment with 16 px before and it was not even visible, 64x64 is also small, i think i need to scale up to 256x256px size for a better character look . 
